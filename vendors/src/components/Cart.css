@@ -1,0 +1,23 @@
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .cart-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .cart-item {
+    font-size: 16px;
+    margin-bottom: 5px;
+    
+  }
+  
+  .total-price {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+  }
